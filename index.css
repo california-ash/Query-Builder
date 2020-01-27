@@ -40,7 +40,6 @@
 .control-pane.querybuilder-pane {
   filter: hue-rotate(160deg)
 }
-
-.e-group-header .e-btn-icon.e-icons.e-delete-icon, .e-group-header button.e-deletegroup.e-control.e-btn.e-lib.e-small.e-round.e-icon-btn.e-tooltip {
-  visibility: hidden;
+.e-dropdownbase .e-list-item.e-active, .e-dropdownbase .e-list-item.e-active.e-hover{
+  filter: hue-rotate(160deg)
 }
