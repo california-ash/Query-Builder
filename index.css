@@ -44,11 +44,6 @@
 .e-dropdownbase .e-list-item.e-active, .e-dropdownbase .e-list-item.e-active.e-hover{
   filter: hue-rotate(160deg)
 }
-.e-group-header {
-  position: relative;
-  top:135px;
-  left:35px;
-}
 .property-panel-section {
     visibility: hidden;
 }
